@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Committee Chair Manuals | ALPs Staff Manuals Website</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Committee Chair Manuals</h1>
+    <h2>Adventure Learning Programs</h2>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="facilitator.html">Facilitator</a>
+    <a href="challenge-course.html">Challenge Course</a>
+    <a href="committee-chair.html">Committee Chair</a>
+    <a href="student-director.html">Student Director</a>
+  </nav>
+
+  <main>
+    <section>
+      <p>
+        The following manuals have been developed for each <strong>committee chair position</strong> within the ALPs organization. 
+        Each manual is designed to support your leadership role, provide institutional knowledge, 
+        and offer <em>step-by-step</em> guidance for responsibilities throughout the year.
+      </p>
+
+      <h3>📘 Program Development Committee</h3>
+      <ul>
+        <li>
+          <a href="https://docs.google.com/document/d/1hSqmHqXfzCIbwcFoeqGYHSmX0VHzSZ7z/edit" target="_blank">
+            Program Development Committee Chair Manual
+          </a> — <strong>Last updated: Fall 2025</strong>
+        </li>
+        <li>
+          <a href="https://docs.google.com/document/d/1hSqmHqXfzCIbwcFoeqGYHSmX0VHzSZ7z/edit" target="_blank">
+            Diversity, Equity, and Inclusion Chair Manual
+          </a> — <strong>Last updated: Fall 2025</strong>
+        </li>
+      </ul>
+
+      <h3>📙 Marketing Committee</h3>
+      <ul>
+        <li>
+          <a href="https://docs.google.com/document/d/1eNlp2-g_-WiWvCTrNzmPgn_Kf_MkA6gFSIpyVcu_Mjk/edit?tab=t.0" target="_blank">
+            Marketing Committee Binder
+          </a> — <strong>Last updated: Spring 2025</strong>
+        </li>
+      </ul>
+
+      <h3>📗 Finance Committee</h3>
+      <ul>
+        <li>
+          <a href="https://docs.google.com/document/d/1HVzpPA_gtMerI-MSoPtyM012a5pXZQPt6_cO18aLoI8/edit?tab=t.0" target="_blank">
+            Financial Specialist Manual
+          </a>
+        </li>
+      </ul>
+
+      <h3>📕 Community Development Committee</h3>
+      <ul>
+        <li>
+          Community Development Committee Manual — <em>(Need to create)</em>
+        </li>
+      </ul>
+
+      <h3>📔 Staff Training & Risk Management</h3>
+      <ul>
+        <li>
+          <a href="https://docs.google.com/document/d/1TmzSk_ZcLtpT-nwI9kxhHjsF7d-SEWzpItt45kFq8Qw/edit?tab=t.0" target="_blank">
+            Staff Training & Risk Management Trainer Manual
+          </a>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Committee Overview</h3>
+      <p>Below is a quick reference of ALPs committees and their primary focus areas.</p>
+
+      <dl>
+        <dt><strong>Program Development</strong></dt>
+        <dd>Focuses on event planning, curriculum, and DEI initiatives.</dd>
+
+        <dt><strong>Marketing</strong></dt>
+        <dd>Promotes ALPs programming and manages internal/external communication channels.</dd>
+
+        <dt><strong>Finance</strong></dt>
+        <dd>Oversees budget planning and financial accountability.</dd>
+
+        <dt><strong>Community Development</strong></dt>
+        <dd>Builds partnerships, outreach, and inter-team collaboration.</dd>
+
+        <dt><strong>Training & Risk Management</strong></dt>
+        <dd>Ensures staff preparedness and safety across all programs.</dd>
+      </dl>
+    </section>
+
+    <section>
+      <h3>Photo Highlights</h3>
+      <p>Snapshots from our amazing committee-led initiatives.</p>
+      <div class="image-gallery">
+        <img src="images/team_meeting.jpg" alt="ALPs team planning session" width="250" />
+        <img src="images/training_day.jpg" alt="Facilitators training on challenge course" width="250" />
+        <img src="images/community_event.jpg" alt="ALPs staff at a community development event" width="250" />
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 ALPs Staff Manuals. All rights reserved.
+  </footer>
+</body>
+</html>
