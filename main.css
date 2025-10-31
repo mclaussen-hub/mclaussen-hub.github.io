@@ -130,3 +130,25 @@ footer {
     color: #ffcc00;
     font-weight: bold
 }
+
+ul, ol, dl {
+  max-width: 800px;
+  margin: 20px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+ul li, ol li {
+  margin-bottom: 8px;
+}
+
+dl dt {
+  font-weight: bold;
+  color: #003366;
+  margin-top: 12px;
+}
+
+dl dd {
+  margin: 0 0 12px 20px;
+  color: #444;
+}
