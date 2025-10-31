@@ -152,3 +152,34 @@ dl dd {
   margin: 0 0 12px 20px;
   color: #444;
 }
+.manuals-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 1.5rem;
+}
+
+.manuals-steps,
+.manuals-descriptions {
+  flex: 1 1 45%;
+  background-color: #f8f8f8;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.manuals-steps ol {
+  padding-left: 1.2rem;
+}
+
+.manuals-descriptions dl dt {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.manuals-descriptions dl dd {
+  margin-left: 1rem;
+  color: #333;
+}
