@@ -183,3 +183,7 @@ dl dd {
   margin-left: 1rem;
   color: #333;
 }
+
+.index-page {
+  background-color: #fff8b3; /* soft yellow */
+}
